@@ -17,16 +17,7 @@
 - **Databases**: SQL Server, MySQL, Hive
 - **Other Tools**: Git, Excel, Kore.ai (Chatbot Development)
  
----
  
-## 📁 Projects (Coming Soon / In Progress)
- 
-- **Sales Dashboard using Power BI** – KPI tracking, Monthly trends, Region-wise insights
-- **Web Scraped Dataset Analysis** – Python-based data pipeline + Power BI dashboard
-- **Employee Attrition Analysis** – Power BI report with DAX-based insights
-- **Big Data Hive Project** – Query optimization and aggregation on large datasets
- 
-> 🧩 More projects will be added as part of my public portfolio – stay tuned!
  
 ---
  

@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Poornima!
  
-🎯 **Power BI Developer | Data Engineer @Virtusa | 4+ Years of Experience**
+🎯 **Power BI Developer | Data Analyst @Virtusa | 4+ Years of Experience**
  
 🔍 I'm passionate about transforming raw data into meaningful dashboards and insights using **Power BI**, **SQL**, and **Python**. I specialize in creating scalable data models, automation pipelines, and interactive visualizations that support data-driven decisions.
  
